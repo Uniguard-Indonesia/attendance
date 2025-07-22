@@ -4,7 +4,8 @@
         "phpoffice/phpspreadsheet": "^1.27",
         "chriskacerguis/codeigniter-restserver": "^3.1",
         "alhimik1986/php-excel-templator": "^1.0",
-        "shuchkin/simplexlsx": "^1.0"
+        "shuchkin/simplexlsx": "^1.0",
+        "vlucas/phpdotenv": "^5.6"
     },
     "config": {
         "platform-check": false
